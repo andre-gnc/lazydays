@@ -1,0 +1,118 @@
+Skip to main content
+
+
+Find Jobs
+FIND WORK
+MY JOBS
+REPORTS
+MESSAGES
+Andre Goranico
+Job details
+Python Developer Needed To Write A Script To Scrape A Website
+Scripting & Automation
+Posted 1 hour ago (25/08/2020 01:29)
+Specialized profiles can help you better highlight your expertise when submitting proposals to jobs like these. Create a specialized profile.
+
+We would like to have a web scraping script built via Python to scrape listing data from RV dealerships. We will be running the program once a day to track inventory and would like the data to be extracted and saved as a CSV file. Once completed, the script to be sent to us to run and use. You wouldn't have to extract the data each day.
+
+Below are some of the things we would like to scrape.
+- RV Model
+- Class (Type of RV)
+- Price
+- Stock #
+- Location
+- New or Used
+- Length
+- Dry Weight
+- Date added to the website
+- Days the camper has been on the website
+- Date removed from the website or pending sale
+- Pending Sale (Yes or No)
+- Manufacturer
+
+
+Here is a link to a dealer listing page:
+https://www.lazydays.com/rvs/?query=inventoryLocation.id%3A759940&page=1&limit=12
+
+Here is an example of each individual listing:
+https://www.lazydays.com/rvs/minneapolis-mn/fifth-wheel/vanleigh-rv-pinecrest-21054328?ldcv=2
+$400
+Fixed-price
+$$
+Intermediate levelI am looking for a mix of experience and value
+Project Type:One-time project
+You will be asked to answer the following questions when submitting a proposal:
+
+How much experience do you have writing this type of Python script?
+Do you have suggestions to make this project run successfully?
+What questions do you have about the project?
+Why do you think you are a good fit for this particular project?
+Skills and expertise
+Scripting & Automation Deliverables
+Automation Data Extraction Scripting Web Scraper
+Scripting Languages
+Python
+Preferred qualifications
+Job Success Score: At least 90%
+English level:  Fluent
+Amount earned: $1k+
+Activity on this job
+Proposals:  20 to 50
+Interviewing: 1
+Invites sent: 0
+Unanswered invites: 0
+Upgrade your membership to see the bid range 
+Flag as inappropriate
+Required Connects to submit a proposal: 4 
+Available Connects: 14
+About the client
+ Payment method verified
+ 0.00 of 0 reviews
+United States
+Cottage Grove 01:26 pm
+9 jobs posted
+23% hire rate, 3 open jobs
+$1k+ total spent
+3 hires, 3 active
+$11.42/hr avg hourly rate paid
+129 hours
+Member since Jul 5, 2016
+Job link
+https://www.upwork.com/jobs/~01d192819af06afcfe
+Client's recent history (2)
+Looking For A Virtual Assistant
+Job in progress
+Freelancer Leslie N.
+Aug 2020 - Present
+96 hrs @ $4.00/hr
+Billed: $360.00
+Developer Needed To Migrate Website and Monthly Maintenance
+Job in progress
+Freelancer Austin S.
+Sep 2019 - Present
+22 hrs @ $45.00/hr
+Billed: $975.00
+Other open jobs by this Client (2)
+Looking For A Graphic Design Artist Hourly
+Looking For A Virtual Assitant With Graphic Design Experience Hourly
+Similar Jobs on Upwork
+Content Writing & website development for a coach I'm looking to create a website for myself as I transition careers to become a coach. For this I need help with developing and honing content about myself and also develop the website.
+Website developer needed to write the code for a demo website Website developer needed to write the code for a demo website that should be similar to https://www.idealista.it/ with customizable object features.
+Accoutnacy Website Development, Content Writing and SEO A professional we could help with 1. Website Development 2. Content Writing - could be on going 3. SEO for UK accountancy Website this will be on going once first 2 are
+Website and Online Membership Program Content writing and development I need help to rewrite content for a website and create new content for an ongoing online program focused on ecopsychology and overall health and wellness. I would also like someone who can help with content strategy. Current website is www.wildsoul.love
+Food Writing and Recipe Development For Grilling/BBQ/Outdoor Cooking Website I am looking to develop a relationship with someone knowledgable in recipe development specifically for all things outdoor cooking to take on some writing projects. This is a get acquainted style project so I can become familiar with your abilities. Initially, it would be a series of articles (starting with one) so I could get to know your style and from there it could turn into many more assignments with better frequency. Skills the project requires: - Having previously created content for a food blog catering to a North American audience - Expertise in outdoor cooking including grilling, BBQ, smoking - Familiar with trends in outdoor cooking - Having a voice of your own In your proposal, please tell me about a similar project you've completed recently and what it entailed. We also want to get to know you as a person, so please provide one or two paragraphs about yourself and your experience as a technical writer. **Please also include if you are willing to ghostwrite content ** Please also note price is subject to increase based on your experience and deliverables.
+About Us
+Feedback
+Community
+Trust & Safety
+Help & Support
+Upwork Foundation
+Terms of Service
+Privacy Policy
+Accessibility
+Desktop App
+Cookie Policy
+Enterprise Solutions
+Mobile
+  
+© 2015 - 2020 Upwork® Global Inc.
